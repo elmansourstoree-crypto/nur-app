@@ -1,0 +1,19 @@
+{
+  "name": "Nur (نُور) — Compagnon Spirituel Sourcé",
+  "short_name": "Nur",
+  "description": "Accompagnement spirituel quotidien sans flemme et assistant islamique sourcé (Coran, Hadiths authentifiés, 4 écoles).",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF7F2",
+  "theme_color": "#0F3D3E",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "/nur-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
